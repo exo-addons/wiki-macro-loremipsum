@@ -6,7 +6,7 @@
     <groupId>org.exoplatform.addons</groupId>
     <version>8-M01</version>
   </parent>
-  <groupId>org.exoplatform.wiki</groupId>
+  <groupId>org.exoplatform.addons.wiki</groupId>
   <artifactId>wiki-macro-loremipsum</artifactId>
   <version>1.0.x-SNAPSHOT</version>
   <name>Wiki Macro Loremipsum</name>
